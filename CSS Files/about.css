@@ -1,0 +1,114 @@
+html{
+	width:100%;
+}
+
+#top{
+	background: url(https://image.freepik.com/free-vector/colorful-skyline-dubai_23-2147520361.jpg);
+	/*background-position*/	
+	background-repeat: no-repeat;
+	background-size: cover;
+	text-align: center;
+	height: 150px;
+	display: flex;
+	background-position: 1% 10%;
+	justify-content: center;
+	align-items: center;
+	border: 2px solid grey;
+	font-size: 80px;
+	word-spacing: 20px;
+	/*letter-spacing: -3px;*/
+	color:black;
+}
+
+a{
+	color:white;
+}
+
+.backBTN:hover{
+	color:blue;
+}
+
+.backBTN{
+	background-color: black;
+	color:white;
+ 	/*margin-right:100px;*/
+ 	position: relative;
+ 	text-decoration: none;
+ 	right:33%;
+ 	bottom:27%;
+ 	border-radius: 90%;
+ 	height: 50px;
+ 	width: 50px;
+ 	font-size: 30px;
+
+ 	text-align: center;
+ 	justify-content: center;
+ 	align-items: center;
+ 	display: flex;
+
+}
+
+.who{
+	text-align: center;
+	margin: 10px auto 10px auto;
+	/*width: */
+}
+h4{
+	font-size: 40px;
+	color: #00aaaa;
+}
+
+#b{
+	font-size: 35px;
+	word-spacing: 5px;
+	letter-spacing: 3px;
+	text-align: center;
+	padding-bottom: 10px;
+	color: rgb(255,200,0);
+	text-shadow: 1px 1px 1px #000000;
+} 
+
+.myIcons{
+	font-size: 50px;
+	/*margin: auto;
+	width: 100%;
+	height: 100px;*/
+	text-align: center;
+	border-bottom: 1px solid grey;
+	margin-bottom: 5px;
+}
+
+.myTitles{
+	font-size: 18px;
+	color: #00aaaa;
+	font-weight: 700;
+	text-align: center;
+}
+
+.myContent{
+	font-size: 13px;
+	padding-top: 5px;
+	text-align: center;
+}
+
+/*.row{
+	text-align: center;
+	/*border: 2px solid black;*/
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}*/
+
+.element{
+	border: 1px solid grey;
+	width: 100%;
+	height: 100%;
+	text-align:center;
+}
+
+.el2{
+	height: 100%;
+	/*width: 100%;*/
+}
+
+
