@@ -102,3 +102,15 @@ h4{
 	height: 100%;
 	/*width: 100%;*/
 }
+
+#foot{
+	font-size: 30px;
+	text-align: center;
+	text-transform: uppercase;
+}
+
+.jumbotron.three{
+	margin-top: 15px;
+	padding:10px;
+	
+}
