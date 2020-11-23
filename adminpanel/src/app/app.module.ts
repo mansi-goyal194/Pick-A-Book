@@ -16,7 +16,7 @@ import { FeedbacksComponent } from './dashboard/feedbacks/feedbacks.component';
 import { OrdersComponent } from './dashboard/orders/orders.component';
 import { ProductsComponent } from './dashboard/products/products.component';
 import { EditproductsComponent } from './dashboard/products/editproducts/editproducts.component';
-import { ApprovesellersComponent } from './dashboard/approvesellers/approvesellers.component';
+
 
 @NgModule({
   declarations: [
@@ -33,7 +33,6 @@ import { ApprovesellersComponent } from './dashboard/approvesellers/approveselle
     OrdersComponent,
     ProductsComponent,
     EditproductsComponent,
-    ApprovesellersComponent,
   ],
   imports: [
     BrowserModule,

@@ -12,7 +12,6 @@ import { AddproductsComponent } from './dashboard/addproducts/addproducts.compon
 import { EditproductsComponent } from './dashboard/products/editproducts/editproducts.component';
 import { OrdersComponent } from './dashboard/orders/orders.component';
 import { FeedbacksComponent } from './dashboard/feedbacks/feedbacks.component';
-import { ApprovesellersComponent } from './dashboard/approvesellers/approvesellers.component';
 const routes: Routes = [{path:'',component:LoginComponent},
 {path:'dashboard',component:DashboardComponent,children:[
 {path:'',component:DefaultComponent},
@@ -24,7 +23,7 @@ const routes: Routes = [{path:'',component:LoginComponent},
  {path:'addproducts',component:AddproductsComponent },
   {path:'editproduct/:pid',component:EditproductsComponent},
   {path:'orders',component:OrdersComponent},
-  {path:'approveseller',component:ApprovesellersComponent},
+
   {path:'feedback',component:FeedbacksComponent }
 ]}
 ];

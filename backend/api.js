@@ -59,27 +59,27 @@ app.post('/api/adminlogin',function(req,res)
     let email=req.body.email;
     let password=sha1(req.body.password);
    // for insert data 
-     //let ins=new adminLogin({'email':email,'password':password});
-    //ins.save(function(err)
-    // {
-         //if(err){}
-         //else
-        //{
-       //     res.json({'msg':'Data Save'})
-      //   }
-    // })
-    adminLogin.find({'email':email,'password':password},function(err,data)
+     let ins=new adminLogin({'email':email,'password':password});
+    ins.save(function(err)
     {
-       if(err){}
-       else if(data.length==0)
-       {
-           res.json({'err':1,'msg':'Email or password is not correct'})
-       }
-       else
-       {
-           res.json({'err':0,'msg':'login succes','user':email});
-       }
+         if(err){}
+         else
+        {
+           res.json({'msg':'Data Save'})
+        }
     })
+    // adminLogin.find({'email':email,'password':password},function(err,data)
+    // {
+    //    if(err){}
+    //    else if(data.length==0)
+    //    {
+    //        res.json({'err':1,'msg':'Email or password is not correct'})
+    //    }
+    //    else
+    //    {
+    //        res.json({'err':0,'msg':'login succes','user':email});
+    //    }
+    // })
 
 })
 
