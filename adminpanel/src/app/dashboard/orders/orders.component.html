@@ -7,7 +7,8 @@
 		<td>S.no</td>
 		<td>Pname</td>
 		<td>Price</td>
-		<td>Qty</td>		
+		<td>Qty</td>	
+		<td>Total Price</td>	
 		<td>Publication</td>
 		<td>Status</td>
 		<td>Action</td>
@@ -16,7 +17,8 @@
 		<td>{{i+1}}</td>
 		<td>{{c.pname}}</td>
 		<td>{{c.price}}</td>
-		<td>{{c.qty}}</td>		
+		<td>{{c.qty}}</td>	
+		<td>{{c.qty * c.price}}</td>	
 		<td>{{c.brand}}</td>
 		<td>{{c.status}}</td>
 		<td><input type="submit" class="btn btn-success" value="Mark as Delivered" (click)="changeStatus(c._id)"/></td>

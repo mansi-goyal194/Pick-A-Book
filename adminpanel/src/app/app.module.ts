@@ -11,11 +11,9 @@ import { AddcategoryComponent } from './dashboard/addcategory/addcategory.compon
 import { AddproductsComponent } from './dashboard/addproducts/addproducts.component';
 import { CategoryComponent } from './dashboard/category/category.component';
 import { ChangepasswordComponent } from './dashboard/changepassword/changepassword.component';
-import { EditcategoryComponent } from './dashboard/category/editcategory/editcategory.component';
 import { FeedbacksComponent } from './dashboard/feedbacks/feedbacks.component';
 import { OrdersComponent } from './dashboard/orders/orders.component';
 import { ProductsComponent } from './dashboard/products/products.component';
-import { EditproductsComponent } from './dashboard/products/editproducts/editproducts.component';
 
 
 @NgModule({
@@ -28,11 +26,9 @@ import { EditproductsComponent } from './dashboard/products/editproducts/editpro
     AddproductsComponent,
     CategoryComponent,
     ChangepasswordComponent,
-    EditcategoryComponent,
     FeedbacksComponent,
     OrdersComponent,
     ProductsComponent,
-    EditproductsComponent,
   ],
   imports: [
     BrowserModule,

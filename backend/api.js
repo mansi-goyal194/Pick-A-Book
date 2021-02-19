@@ -648,12 +648,12 @@ let ins=new orderModel({'pname':data[i].pname,'email':data[i].email,'price':data
     ins.save(function(err)
     {
         if(err){
-          res.json({'err':1,'msg':'dicarded'})
+          return res.json({'err':1,'msg':'dicarded'})
         }
         else
         {
    
-            res.json({'err':0,'msg':'placed'})
+            return res.json({'err':0,'msg':'placed'})
              cartModel.remove({'email':uid},function(err)
     {
             if(err){}

@@ -12,14 +12,11 @@ import { HeaderComponent } from './pages/header/header.component';
 import { MyordersComponent } from './pages/myorders/myorders.component';
 import { OrderComponent } from './pages/order/order.component';
 import { ProductdetailsComponent } from './pages/productdetails/productdetails.component';
-import { SearchComponent } from './pages/search/search.component';
 import { ShopComponent } from './pages/shop/shop.component';
 import { ShopdefaultComponent } from './pages/shopdefault/shopdefault.component';
-import { SidebarComponent } from './pages/sidebar/sidebar.component';
 import { SigninComponent } from './pages/signin/signin.component';
 import { SignupComponent } from './pages/signup/signup.component';
 import { AboutusComponent } from './aboutus/aboutus.component';
-import { LandingComponent } from './landing/landing.component';
 import {HttpClientModule} from '@angular/common/http';
 @NgModule({
   declarations: [
@@ -33,14 +30,11 @@ import {HttpClientModule} from '@angular/common/http';
     MyordersComponent,
     OrderComponent,
     ProductdetailsComponent,
-    SearchComponent,
     ShopComponent,
     ShopdefaultComponent,
-    SidebarComponent,
     SigninComponent,
     SignupComponent,
     AboutusComponent,
-    LandingComponent
   ],
   imports: [
     BrowserModule,
