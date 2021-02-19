@@ -1,0 +1,393 @@
+[{
+  "_id": {
+    "$oid": "5fbc060c178d7b04f4a747c1"
+  },
+  "pname": "Becoming",
+  "description": "Becoming is the memoir of former United States first lady Michelle Obama published in 2018. Described by the author as a deeply personal experience, the book talks about her roots and how she found her voice, as well as her time in the White House, her public health campaign, and her role as a mother.\t",
+  "image": "Image-1606157836119.jpg",
+  "brand": "Viking Press",
+  "price": 729,
+  "category": "Autobiography",
+  "created_at": {
+    "$date": "2020-11-23T18:57:16.123Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5fbc0667178d7b04f4a747c2"
+  },
+  "pname": "Hamlet - Shakespeare",
+  "description": "The Tragedy of Hamlet, Prince of Denmark, often shortened to Hamlet (/ˈhæmlɪt/), is a tragedy written by William Shakespeare sometime between 1599 and 1601.",
+  "image": "Image-1606157927051.jpg",
+  "brand": "Penguin",
+  "price": 250,
+  "category": "Fiction",
+  "created_at": {
+    "$date": "2020-11-23T18:58:47.054Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5fbc0889178d7b04f4a747c3"
+  },
+  "pname": "Anna Karenina",
+  "description": "Anna Karenina is a novel by the Russian author Leo Tolstoy, first published in book form in 1878. Many writers consider Anna Karenina the greatest work of literature ever, and Tolstoy himself called it his first true novel.",
+  "image": "Image-1606158473455.jpg",
+  "brand": "FP",
+  "price": 359,
+  "category": "Fiction",
+  "created_at": {
+    "$date": "2020-11-23T19:07:53.460Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5fbc08ca178d7b04f4a747c4"
+  },
+  "pname": "The Girl in the Room 105 - Chetan Bhagat",
+  "description": "The Girl in Room 105 is the eighth novel and the tenth book overall written by the Indian author Chetan Bhagat. The book became a bestseller based on prearranged sales alone.\t",
+  "image": "Image-1606158538440.jpeg",
+  "brand": "Zumba",
+  "price": 199,
+  "category": "Fiction",
+  "created_at": {
+    "$date": "2020-11-23T19:08:58.444Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5fbc08f9178d7b04f4a747c5"
+  },
+  "pname": "13 reasons why",
+  "description": "Thirteen Reasons Why is a young adult novel written in 2007 by Jay Asher. It is the story of a young high school student as she descends into despair brought on by betrayal and bullying, culminating with her suicide.",
+  "image": "Image-1606158585616.jpeg",
+  "brand": "Harper",
+  "price": 133,
+  "category": "Fiction",
+  "created_at": {
+    "$date": "2020-11-23T19:09:45.623Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5fbc0926178d7b04f4a747c6"
+  },
+  "pname": "Rashmirathi",
+  "description": "Rashmirathi is a Hindi epic written in 1952, by the Hindi poet Ramdhari Singh 'Dinkar'. The work is centered around the life of Karna, who was son of unmarried queen Kunti (Pandu's wife) in the epic- Mahabharata. It is one of the most appreciated works of Dinkar apart from \"Kurukshetra\" and one of the classics of modern Hindi literature.\t",
+  "image": "Image-1606158630867.jpeg",
+  "brand": "Lokbharti Prakashan",
+  "price": 201,
+  "category": "Fiction",
+  "created_at": {
+    "$date": "2020-11-23T19:10:30.873Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5fbc098c178d7b04f4a747c7"
+  },
+  "pname": "Nothing Lasts Forever",
+  "description": "Nothing Lasts Forever is a 1979 American action thriller novel by Roderick Thorp, a sequel to his 1966 novel The Detective. The novel is mostly known through its 1988 film adaptation, Die Hard. In 2012, the book was brought back into print and released as an ebook for the 25th anniversary of the film.",
+  "image": "Image-1606158732781.jpeg",
+  "brand": "Penguin",
+  "price": 249,
+  "category": "Fiction",
+  "created_at": {
+    "$date": "2020-11-23T19:12:12.784Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5fbc09e1178d7b04f4a747c8"
+  },
+  "pname": "Harrry Potter and the Chamber of Secrets",
+  "description": "Harry Potter and the Chamber of Secrets, by J. K. Rowling, is the sequel to Harry Potter and the Philosopher's Stone. It is the second book in the series of seven Harry Potter books. The book was published in 1998. A film was theatrically released in November 2002.\t",
+  "image": "Image-1606158817602.jpeg",
+  "brand": "Bloomsbury",
+  "price": 499,
+  "category": "Non-fiction",
+  "created_at": {
+    "$date": "2020-11-23T19:13:37.606Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5fbc0a14178d7b04f4a747c9"
+  },
+  "pname": "Unfuck Yourself",
+  "description": "Get Out of Your Head and Into Your Life, Gary John Bishop, wants to help us accept reality as it is. To slap us in the face with his edgy language so we can wake up to our true potential and make a difference in our lives. It's a book about doing.",
+  "image": "Image-1606158868047.jpeg",
+  "brand": "Penguin",
+  "price": 299,
+  "category": "Fiction",
+  "created_at": {
+    "$date": "2020-11-23T19:14:28.052Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5fbc0a7e178d7b04f4a747ca"
+  },
+  "pname": "The Hitchhiker’s Guide to the Galaxy-Douglas Adams",
+  "description": "The broad narrative of Hitchhiker follows the misadventures of the last surviving man, Arthur Dent, following the demolition of the Earth by a Vogon constructor fleet to make way for a hyperspace bypass. Dent is rescued from Earth's destruction by Ford Prefect—a human-like alien writer for the eccentric, electronic travel guide The Hitchhiker's Guide to the Galaxy—by hitchhiking onto a passing Vogon spacecraft.",
+  "image": "Image-1606158974191.jpg",
+  "brand": "DAA",
+  "price": 499,
+  "category": "Sci-Fi",
+  "created_at": {
+    "$date": "2020-11-23T19:16:14.197Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5fbc0af2178d7b04f4a747cb"
+  },
+  "pname": "Frankenstein by Mary Shelley",
+  "description": "Frankenstein; or, The Modern Prometheus is an 1818 novel written by English author Mary Shelley (1797–1851) that tells the story of Victor Frankenstein, a young scientist who creates a sapient creature in an unorthodox scientific experiment",
+  "image": "Image-1606159090177.jpeg",
+  "brand": "Harper Collins",
+  "price": 528,
+  "category": "Sci-Fi",
+  "created_at": {
+    "$date": "2020-11-23T19:18:10.184Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5fbc0b34178d7b04f4a747cc"
+  },
+  "pname": "Foundation by Isaac Asimov",
+  "description": "Foundation is a science fiction novel by American writer Isaac Asimov. It is the first published in his Foundation Trilogy (later expanded into the Foundation Series). Foundation is a cycle of five interrelated short stories, first published as a single book by Gnome Press in 1951. Collectively they tell the early story of the Foundation, an institute founded by psychohistorian Hari Seldon to preserve the best of galactic civilization after the collapse of the Galactic Empire",
+  "image": "Image-1606159156570.jpeg",
+  "brand": "hachette LIVRE",
+  "price": 635,
+  "category": "Sci-Fi",
+  "created_at": {
+    "$date": "2020-11-23T19:19:16.577Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5fbc0d0a5c0195085c9e1fe5"
+  },
+  "pname": "Solaris by Stanislaw Lem",
+  "description": "Solaris is a 1961 philosophical science fiction novel by Polish writer Stanisław Lem. It follows a crew of scientists on a research station as they attempt to understand an extraterrestrial intelligence, which takes the form of a vast ocean on the titular alien planet. The novel is among Lem's best-known works.",
+  "image": "Image-1606159626396.jpeg",
+  "brand": "SIMON",
+  "price": 225,
+  "category": "Sci-Fi",
+  "created_at": {
+    "$date": "2020-11-23T19:27:06.419Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5fbc0d585c0195085c9e1fe6"
+  },
+  "pname": "The Bottle Factory Outing by Beryl Bainbridge\t",
+  "description": "As dark and doomful as it is hilarious, Beryl Bainbridge’s Booker Prize-nominated novel follows Freda and Brenda, two unlucky-in-love bedsit-mates working in an Italian-run wine-bottling factory in London, who find that their lives change forever after a team outing.\t\t",
+  "image": "Image-1606159704889.jpeg",
+  "brand": "Harper",
+  "price": 213,
+  "category": "Comedies",
+  "created_at": {
+    "$date": "2020-11-23T19:28:24.896Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5fbc0ea25c0195085c9e1fe8"
+  },
+  "pname": "Delete At Your Peril by Bob Servant",
+  "description": "Delete At Your Peril is a very, very funny book, and a perfect present for anybody who has a) a sense of humour, and b) gets irritated by internet spammers and their tiresome scams. Bob Servant, 62-year-old window cleaner, and Dundee's former cheeseburger kingpin, wages war on the scammers and their promises of easy money, love and gainfully employment.",
+  "image": "Image-1606160034596.jpg",
+  "brand": "Oxford",
+  "price": 419,
+  "category": "Comedies",
+  "created_at": {
+    "$date": "2020-11-23T19:33:54.605Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5fbd1e1aa7259133e8026896"
+  },
+  "pname": "The Catcher In The Rye by J.D Salinger",
+  "description": "It's strange how this novel has become a by-word for doomy, nihilistic introspection; I blame Mark Chapman. It's actually a very funny book, right from its perfect opening sentence. No one has ever captured the adolescent voice with such accuracy; the pretension, the self-importance, the heart-breaking sincerity and misguided passion.\t",
+  "image": "Image-1606229530901.jpg",
+  "brand": "fp",
+  "price": 499,
+  "category": "Comedies",
+  "created_at": {
+    "$date": "2020-11-24T14:52:10.914Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5fbd1ed6a7259133e8026898"
+  },
+  "pname": "My Sister, the Serial Killer by Oyinkan Braithwaite",
+  "description": "Long-suffering Korede and her younger sister Ayoola live in Lagos, Nigeria, and they have each other's backs. That's especially handy for Ayoola, because she's developed a habit of killing her boyfriends – she's just polished off her third – and needs Korede to help clean up.",
+  "image": "Image-1606229718654.jpg",
+  "brand": "jaico",
+  "price": 369,
+  "category": "Comedies",
+  "created_at": {
+    "$date": "2020-11-24T14:55:18.662Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5fbd1f08a7259133e8026899"
+  },
+  "pname": "Beautiful Disaster - JAMIE MCGUIRE",
+  "description": "Abby Abernathy swears she's going to leave her dark past behind her when she goes to college, becoming the consummate good girl. But all of her best intentions are challenged by tattooed campus bad boy Travis Maddox, who tricks Abby into a month-long bet. The stakes turn out to be higher than either of them realize.\t\tvintage\t213",
+  "image": "Image-1606229768324.jpeg",
+  "brand": "Vintage",
+  "price": 213,
+  "category": "Romantic",
+  "created_at": {
+    "$date": "2020-11-24T14:56:08.332Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5fbd1f3da7259133e802689a"
+  },
+  "pname": "The Hating Game - SALLY THORNE",
+  "description": "If you've ever carried a torch for a coworker (the scandal!) this 2016 novel will speak to you. Ccoworkers Lucy Hutton and her sworn nemesis Joshua Templeman have a rivalry as bitter as they come, especially as they compete for the same promotion. At least, it starts out that way.\t",
+  "image": "Image-1606229821294.jpeg",
+  "brand": "F4F",
+  "price": 199,
+  "category": "Romantic",
+  "created_at": {
+    "$date": "2020-11-24T14:57:01.298Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5fbd1f75a7259133e802689b"
+  },
+  "pname": "The Proposal - JASMINE GUILLORY",
+  "description": "You really can't go wrong with any of Jasmine Guillory's fun, romantic romps, but this Reese's Book Club pick is especially great. Freelance writer Nik's boyfriend proposes at a Dodger's game, and the dude can't even spell her name right. She says no (duh), and the video goes viral. Handsome doctor Carlos sweeps her away from the frenzy, but he can't possibly be the real deal. Or can he?\t",
+  "image": "Image-1606229877846.jpeg",
+  "brand": "McGre",
+  "price": 256,
+  "category": "Romantic",
+  "created_at": {
+    "$date": "2020-11-24T14:57:57.850Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5fbd1ff5a7259133e802689c"
+  },
+  "pname": "It Ends With Us - COLLEEN HOOVER\t",
+  "description": "New to Boston, small-town girl Lily manages to get gorgeous neurosurgeon Ryle Kincaid to break his \"no dating\" rule. But his stubborn ways make her wonder where that aversion came from. And when an old flame resurfaces, everything she has with Ryle is suddenly thrown into question.",
+  "image": "Image-1606230005200.jpg",
+  "brand": "CC",
+  "price": 299,
+  "category": "Romantic",
+  "created_at": {
+    "$date": "2020-11-24T15:00:05.203Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5fbd252ca7259133e802689d"
+  },
+  "pname": "Winnie The Pooh - A.A. Milne,",
+  "description": "\"Winnie-the-Pooh is a collection of children’s stories by A.A. Milne, published in 1926. Milne wrote the episodic stories of Winnie-the-Pooh and its sequel, The House at Pooh Corner(1928), for his young son, Christopher Robin, whose toy animals were the basis for many of the characters and whose name was used for the young boy who appears in the tales as the benign master of the animals.\"\t",
+  "image": "Image-1606231340841.jpeg",
+  "brand": "Penguin",
+  "price": 333,
+  "category": "Kids",
+  "created_at": {
+    "$date": "2020-11-24T15:22:20.846Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5fbd2555a7259133e802689e"
+  },
+  "pname": "Wrinkle in Time\t",
+  "description": "\"A Wrinkle in Time is the story of Meg Murry, a high-school-aged girl who is transported on an adventure through time and space with her younger brother Charles Wallace and her friend Calvin O'Keefe to rescue her father, a gifted scientist, from the evil forces that hold him prisoner on another planet.\"",
+  "image": "Image-1606231381886.jpeg",
+  "brand": "Fp",
+  "price": 319,
+  "category": "Kids",
+  "created_at": {
+    "$date": "2020-11-24T15:23:01.891Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5fbd259aa7259133e802689f"
+  },
+  "pname": "Charlie & The Chocolate Factory - Roald Dahl",
+  "description": "Charlie and the Chocolate Factory, a children’s book by Roald Dahl, was first published in 1964. It was perhaps the most popular of his irreverent, darkly comic novels written for young people and tells the story of a destitute young boy who wins a golden ticket to tour the mysterious and magical chocolate factory of Willy Wonka.\"\t",
+  "image": "Image-1606231450494.jpeg",
+  "brand": "cc",
+  "price": 120,
+  "category": "Kids",
+  "created_at": {
+    "$date": "2020-11-24T15:24:10.498Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5fbd25d0a7259133e80268a0"
+  },
+  "pname": "Magic Treehouse",
+  "description": "\"The first Magic Tree House book was published in 1992 — introducing the world to Jack and Annie, a brother and sister who discover a magical tree house filled with books. In Dinosaurs Before Dark, the tree house takes them on their first journey, an adventure in prehistoric times. Since then, the magic tree house has whisked Jack and Annie — and lucky readers! — on many more adventures through time to different places around the world.\"",
+  "image": "Image-1606231504072.jpeg",
+  "brand": "WWE",
+  "price": 219,
+  "category": "Kids",
+  "created_at": {
+    "$date": "2020-11-24T15:25:04.078Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5fbd2678a7259133e80268a1"
+  },
+  "pname": "Mathematics for Class 10 by R D Sharma (2019-20 Session)",
+  "description": "This textbook of Mathematics will be of great help for those students who will be appearing for their Class 10 Examinations. Difficult sums have been explained in the simplest way so that students can grasp the same easily. The revised edition is based on the guidelines provided by the Central Board of Secondary Education (CBSE). penned by Rd Sharma, this book contains all the formulae, equations and theorem elucidated in simple, easy to understand format. Salient features of this book: The entire syllabus has been divided into two categories for the benefits of the students. Category 1 includes the 1st seven (7) chapters and category 2 comprises chapters 8 to 16. This textbook covers the latest syllabus prescribed in keeping with the CCE guidelines by CBSE.",
+  "image": "Image-1606231672027.jpg",
+  "brand": "RD Sharma",
+  "price": 535,
+  "category": "Education",
+  "created_at": {
+    "$date": "2020-11-24T15:27:52.033Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5fbd27ffa7259133e80268a2"
+  },
+  "pname": "Fundamental Of Database Management System",
+  "description": "The book Fundamentals of Database Systems covers detailed and clear explanations of databases in form of practical, design and theoretical knowledge. Broad and in depth coverage of real systems and models and the up-to-date introduction to the modern database technologies helps to rapidly clarify the essential components of database systems. This textbook is intended for computer science majors and the study matter lays special emphasis on designs issues, relational calculus, mathematical models and relational algebra.",
+  "image": "Image-1606232063181.jpg",
+  "brand": "Elsmeri",
+  "price": 999,
+  "category": "Education",
+  "created_at": {
+    "$date": "2020-11-24T15:34:23.185Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5fbd2894a7259133e80268a3"
+  },
+  "pname": "Computer Networks - Forouzan",
+  "description": "Data Communications And Networking (SIE) by Behrouz Forouzan is a comprehensive reference book for students pursuing their courses on networking. With detailed accounts on the data transmission protocols and networking, the book is a useful for various the engineering courses in communication, computer science, and IT. Further, the book also finds usage as a preparatory material for the various other technology related courses too.",
+  "image": "Image-1606232212211.jpg",
+  "brand": "FP",
+  "price": 679,
+  "category": "Education",
+  "created_at": {
+    "$date": "2020-11-24T15:36:52.215Z"
+  },
+  "__v": 0
+}]
